@@ -1,0 +1,27 @@
+#Mashup {  
+    width: 100px;
+    border: 10px solid navy;
+    padding: 0px;
+    margin: 0;
+  }
+
+#Mashup {
+    background-color: navajowhite;
+}
+  
+#Mashup ul {
+list-style-type: none;
+padding: 0px;
+}
+
+#Mashup a:hover {
+    color:burlywood;
+}
+
+body{
+    background-color:aquamarine; 
+    text-align: center;
+}
+
+body{
+    font-family:monospace
